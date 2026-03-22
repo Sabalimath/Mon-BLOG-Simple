@@ -32,3 +32,4 @@ Pour faire fonctionner ce projet sur votre ordinateur :
         Ouvrir config.php.
         Vérifier les identifiants de connexion (utilisateur: root, mot de passe: `` par défaut sur XAMPP).
     Lancement : Aller sur http://localhost/blog/ dans le navigateur.
+Aperçu du blog
